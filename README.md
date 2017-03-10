@@ -31,7 +31,7 @@ un servidor de base de datos mysql.
 
 2) Se configuro el vagrantfile
 
-* Esta anexo arriba
+![4](https://cloud.githubusercontent.com/assets/18620736/23816750/78ba5dd8-05bc-11e7-851e-4dee176f49c8.png)
 
 3) Se crearon los cookbooks
 
