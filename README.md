@@ -35,7 +35,7 @@ un servidor de base de datos mysql.
 
 3) Se crearon los cookbooks
 
-* Esta anexo arriba
+![3](https://cloud.githubusercontent.com/assets/18620736/23816776/a3309f8c-05bc-11e7-9a99-81aec637d3ba.png)
 
 4) Prueba de funcionamiento
 
