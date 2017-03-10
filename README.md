@@ -27,6 +27,7 @@ un servidor de base de datos mysql.
 1) Se Instalo Nginx, mediante el siguiente comando
 
 * sudo apt-get install nginx
+![1](https://cloud.githubusercontent.com/assets/18620736/23816438/cc2342ac-05ba-11e7-90ad-e07838ec5a5e.png)
 
 2) Se configuro el vagrantfile
 
