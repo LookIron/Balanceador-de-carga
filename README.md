@@ -25,3 +25,16 @@ un servidor de base de datos mysql.
 ### Procedimiento
 
 1) Se Instalo Nginx, mediante el siguiente comando
+
+* sudo apt-get install nginx
+
+2) Se configuro el vagrantfile
+
+* Esta anexo arriba
+
+3) Se crearon los cookbooks
+
+* Esta anexo arriba
+
+4) Prueba de funcionamiento
+
