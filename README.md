@@ -39,3 +39,10 @@ un servidor de base de datos mysql.
 
 4) Prueba de funcionamiento
 
+![animacion3](https://cloud.githubusercontent.com/assets/18620736/23816814/ce6ef644-05bc-11e7-8be6-8e13723e1cc4.gif)
+
+5) Problemas encontrados
+
+![2](https://cloud.githubusercontent.com/assets/18620736/23816848/06664eb2-05bd-11e7-9591-a3d08630dbf9.png)
+
+
